@@ -10,7 +10,6 @@ const productos = [
 
 ];
 
-
 const contenedor = document.getElementById("contenedor");
 
 productos.forEach(prod => {
